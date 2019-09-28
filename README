@@ -1,0 +1,8 @@
+This is DC low voltage (up to 60v) PLC modem based on the following
+schematics https://www.radiolocman.com/shem/schematics.html?di=148255
+with only one modification for small 500k carrier frequency: C3 was
+changed from 100pF to 1nF.
+
+Firmware is written for STM32F103 BluePill board.  Modem PCB is designed
+in such a way that BluePill can be directly pluged in using hardware
+USART1 support.
