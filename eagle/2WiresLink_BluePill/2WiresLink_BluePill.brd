@@ -2115,12 +2115,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="SPICEPREFIX" value="R" x="43.733" y="15.277" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="45.638" y="15.912" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1nF" x="46.702" y="15.277" smashed="yes" rot="MR90">
+<element name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" package="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10nF" x="46.702" y="15.277" smashed="yes" rot="MR90">
 <attribute name="MF" value="KEMET" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="MPN" value="C0603C101J5GACTU" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="NAME" x="43.63" y="18.068" size="1.27" layer="26" rot="MR180"/>
 <attribute name="OC_FARNELL" value="unknown" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
-<attribute name="OC_MOUSER" value="80-C0603C101J5G" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="46.702" y="15.277" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="44.797" y="14.642" size="1.27" layer="28" rot="MR90"/>

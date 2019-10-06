@@ -11808,7 +11808,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/sn74lvc1g240"&gt; Datasheet &lt;/a
 <attribute name="OC_MOUSER" value="71-CRCW060310K0FKEAC"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1nF">
+<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10nF">
 <spice>
 <pinmapping spiceprefix="C">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -11816,9 +11816,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/sn74lvc1g240"&gt; Datasheet &lt;/a
 </pinmapping>
 </spice>
 <attribute name="MF" value="KEMET"/>
-<attribute name="MPN" value="C0603C101J5GACTU"/>
 <attribute name="OC_FARNELL" value="unknown"/>
-<attribute name="OC_MOUSER" value="80-C0603C101J5G"/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -12356,9 +12354,7 @@ Source: &lt;a href="http://www.ti.com/lit/gpn/sn74lvc1g240"&gt; Datasheet &lt;/a
 <attribute name="VALUE" x="-31.496" y="0.381" size="1.778" layer="96"/>
 <attribute name="OC_NEWARK" x="-33.02" y="5.08" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="-33.02" y="5.08" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-33.02" y="5.08" size="1.778" layer="96" display="off"/>
 <attribute name="OC_FARNELL" x="-33.02" y="5.08" size="1.778" layer="96" display="off"/>
-<attribute name="OC_MOUSER" x="-33.02" y="5.08" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="GND17" gate="1" x="-43.18" y="-5.08" smashed="yes">
 <attribute name="VALUE" x="-45.72" y="-7.62" size="1.778" layer="96"/>
